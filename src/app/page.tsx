@@ -98,7 +98,7 @@ export default function LandingPage() {
           imageSrc: "http://img.b2bpic.net/free-photo/young-businessman-working-from-his-office-concept-confidence-success_181624-23215.jpg",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/happy-customers-car-dealership_23-2149106169.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/happy-customers-car-dealership_23-2149106169.jpg?_wi=1"
       mediaAnimation="slide-up"
       avatars={[
         {
@@ -341,7 +341,7 @@ export default function LandingPage() {
           quote: "Seamless service, FJKautosimport exceeded my expectations.",
           tag: "Verified",
           avatarSrc: "http://img.b2bpic.net/free-photo/person-preparing-get-driver-license_23-2150167637.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/happy-customers-car-dealership_23-2149106169.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/happy-customers-car-dealership_23-2149106169.jpg?_wi=2",
           imageAlt: "happy client buying car",
         },
         {
